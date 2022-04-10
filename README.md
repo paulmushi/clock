@@ -1,1 +1,1 @@
-# clock using JavaScript.
+# Building clock using JavaScript.
